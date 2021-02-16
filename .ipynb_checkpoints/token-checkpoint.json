@@ -1,0 +1,27 @@
+{
+    "token_type": "Bearer",
+    "expires_at": 1613493657,
+    "expires_in": 21600,
+    "refresh_token": "7e3e8aa8f6944722ef5f48525301ac822a94a6ab",
+    "access_token": "a20219742bfc4baccfddf350ba8b48262bf7b7c6",
+    "athlete": {
+        "id": 78376368,
+        "username": null,
+        "resource_state": 2,
+        "firstname": "Lyes",
+        "lastname": "Oudinache",
+        "city": "Gen\u00e8ve",
+        "state": "Gen\u00e8ve",
+        "country": "Switzerland",
+        "sex": "M",
+        "premium": false,
+        "summit": false,
+        "created_at": "2021-02-11T13:24:02Z",
+        "updated_at": "2021-02-11T13:25:28Z",
+        "badge_type_id": 0,
+        "profile_medium": "https://d3nn82uaxijpm6.cloudfront.net/assets/avatar/athlete/medium-bee27e393b8559be0995b6573bcfde897d6af934dac8f392a6229295290e16dd.png",
+        "profile": "https://d3nn82uaxijpm6.cloudfront.net/assets/avatar/athlete/large-800a7033cc92b2a5548399e26b1ef42414dd1a9cb13b99454222d38d58fd28ef.png",
+        "friend": null,
+        "follower": null
+    }
+}
